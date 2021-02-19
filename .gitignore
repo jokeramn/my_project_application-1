@@ -3,7 +3,6 @@
 .DS_Store
 *.lock
 !yarn.lock
-src/
 *.log
 out/
 node_modules/
